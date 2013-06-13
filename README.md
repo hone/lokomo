@@ -1,6 +1,6 @@
 # Lokomo
 
-TODO: Write a gem description
+Heroku Buildpack Runner. Used to run a Heroku Buildpack locally.
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ lokomo compile /path/to/app
+
 
 ## Contributing
 
